@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="geek_acktivism_7.svg"
+   inkscape:export-filename="/home/svet/Pictures/geek_activism/geek_acktivism_7.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3842"
+       y="-0.2"
+       width="1.12"
+       height="1.37"
+       x="-0.07"
+       inkscape:label="Fire"
+       inkscape:menu="Protrusions"
+       inkscape:menu-tooltip="Edges of object are on fire"
+       color-interpolation-filters="sRGB">
+      <feMorphology
+         id="feMorphology3844"
+         result="result1"
+         radius="10"
+         operator="dilate" />
+      <feTurbulence
+         id="feTurbulence3846"
+         baseFrequency="0.09 0.028"
+         numOctaves="1" />
+      <feColorMatrix
+         id="feColorMatrix3848"
+         result="result2"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+      <feDisplacementMap
+         id="feDisplacementMap3850"
+         in2="result2"
+         result="result4"
+         scale="10.31941"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feFlood
+         id="feFlood3852"
+         result="result3"
+         flood-opacity="1"
+         flood-color="rgb(255,159,54)" />
+      <feMorphology
+         id="feMorphology3854"
+         radius="3.8"
+         result="result7"
+         in="result4" />
+      <feGaussianBlur
+         id="feGaussianBlur3856"
+         result="result7"
+         in="result7"
+         stdDeviation="2.4" />
+      <feComposite
+         id="feComposite3858"
+         in2="result4"
+         result="result5"
+         in="result3"
+         operator="in" />
+      <feComposite
+         id="feComposite3860"
+         in2="result7"
+         operator="out" />
+      <feOffset
+         id="feOffset3862"
+         result="result6"
+         dy="-7"
+         dx="-4.5" />
+      <feGaussianBlur
+         id="feGaussianBlur3864"
+         result="result7"
+         stdDeviation="4.8" />
+      <feComposite
+         id="feComposite3866"
+         in2="result6"
+         in="SourceGraphic"
+         result="result8" />
+      <feComposite
+         id="feComposite3868"
+         in2="result7" />
+    </filter>
+    <filter
+       id="filter3870"
+       inkscape:label="filter2"
+       color-interpolation-filters="sRGB" />
+    <filter
+       id="filter3910"
+       y="-0.57000000000000028"
+       width="1.2"
+       height="1.8600000000000003"
+       x="-0.1"
+       inkscape:label="Fire"
+       inkscape:menu="Protrusions"
+       inkscape:menu-tooltip="Edges of object are on fire"
+       color-interpolation-filters="sRGB">
+      <feMorphology
+         id="feMorphology3912"
+         result="result1"
+         radius="9.4000000000000004"
+         operator="dilate" />
+      <feTurbulence
+         id="feTurbulence3914"
+         baseFrequency="0.09 0.028"
+         numOctaves="1" />
+      <feColorMatrix
+         id="feColorMatrix3916"
+         result="result2"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+      <feDisplacementMap
+         id="feDisplacementMap3918"
+         in2="result2"
+         result="result4"
+         scale="10.319410319410318"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feFlood
+         id="feFlood3920"
+         result="result3"
+         flood-opacity="1"
+         flood-color="rgb(255,159,54)" />
+      <feMorphology
+         id="feMorphology3922"
+         radius="3.8"
+         result="result7"
+         in="result4" />
+      <feGaussianBlur
+         id="feGaussianBlur3924"
+         result="result7"
+         in="result7"
+         stdDeviation="2.4" />
+      <feComposite
+         id="feComposite3926"
+         in2="result4"
+         result="result5"
+         in="result3"
+         operator="in" />
+      <feComposite
+         id="feComposite3928"
+         in2="result7"
+         operator="out" />
+      <feOffset
+         id="feOffset3930"
+         result="result6"
+         dy="-7"
+         dx="-4.5" />
+      <feGaussianBlur
+         id="feGaussianBlur3932"
+         result="result7"
+         stdDeviation="4.8" />
+      <feComposite
+         id="feComposite3934"
+         in2="result6"
+         in="SourceGraphic"
+         result="result8" />
+      <feComposite
+         id="feComposite3936"
+         in2="result7" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="385.9233"
+     inkscape:cy="443.72631"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(431.42856,-133.79082)">
+    <rect
+       style="fill:#ffdd55;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="1500"
+       height="800"
+       x="-431.42856"
+       y="133.79082"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0088aa;fill-opacity:1;stroke:none;filter:url(#filter3842);font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+       x="-329.14282"
+       y="264.36215"
+       id="text3755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="-329.14282"
+         y="264.36215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">Прачытайце арыгінальныя                          .</tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="314.36215"
+         id="tspan3777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono" /><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="364.36215"
+         id="tspan3759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">Так, яны не маюць ніякага дачынення да гэтых тэзісаў. </tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="414.36215"
+         id="tspan3761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">Так, яны нават рэлігійна не блізка да гэтай &quot;рэлігіі&quot;. </tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="464.36215"
+         id="tspan3763"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">І так, ім 500 гадоў.</tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="514.36218"
+         id="tspan3787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"> </tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="564.36218"
+         id="tspan3765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">Але яны паказваюць, як заяўляць вашыя перакананні </tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="614.36218"
+         id="tspan3767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">зразумела, эфектыўна і публічна,</tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="664.36218"
+         id="tspan3769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">каб *кінуты выклік статусу-кво* мог змяніць свет.</tspan><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="714.36218"
+         id="tspan3789"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono" /><tspan
+         sodipodi:role="line"
+         x="-329.14282"
+         y="764.36218"
+         id="tspan3775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0088aa;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">Вядома, у мяне няма маніі велічы!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+       x="131.42857"
+       y="609.50507"
+       id="text3779"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3783"
+         x="131.42857"
+         y="609.50507" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="477.14285"
+       y="885.2193"
+       id="text3791"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3793"
+         x="477.14285"
+         y="885.2193">95 тэзісаў гік-актывізма:№7</tspan></text>
+    <a
+       id="a3950"
+       xlink:href="https://be.wikipedia.org/wiki/95_%D1%82%D1%8D%D0%B7%D1%96%D1%81%D0%B0%D1%9E">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3906"
+         y="265.00891"
+         x="245.43457"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2ca02c;fill-opacity:1;stroke:none;filter:url(#filter3910);font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+         xml:space="preserve"><tspan
+           y="265.00891"
+           x="245.43457"
+           id="tspan3908"
+           sodipodi:role="line">95 тэзісаў Марціна Лютэра</tspan></text>
+    </a>
+  </g>
+</svg>

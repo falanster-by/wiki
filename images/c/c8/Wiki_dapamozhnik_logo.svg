@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg6138"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="wiki_dapamozhnik_logo.svg"
+   inkscape:export-filename="D:\Dropbox\wiki_dapamozhnik\story\wiki_dapamozhnik_logo.png"
+   inkscape:export-xdpi="65.348633"
+   inkscape:export-ydpi="65.348633">
+  <defs
+     id="defs6140" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3061">
+      <rect
+         y="102.48878"
+         x="591.55133"
+         height="58.356667"
+         width="58.356667"
+         id="rect3344"
+         style="fill:#f40000;fill-opacity:1" />
+      <rect
+         y="218.34734"
+         x="591.85071"
+         height="58.356667"
+         width="58.356667"
+         id="rect3344-1"
+         style="fill:#ec5049;fill-opacity:1" />
+      <rect
+         y="160.88159"
+         x="650.08679"
+         height="58.356667"
+         width="58.356667"
+         id="rect3344-2"
+         style="fill:#ff2a2a" />
+      <rect
+         y="160.82576"
+         x="591.74091"
+         height="58.356667"
+         width="58.356667"
+         id="rect3344-4"
+         style="fill:#d40000" />
+      <rect
+         y="160.78932"
+         x="533.5014"
+         height="58.356667"
+         width="58.356667"
+         id="rect3344-3"
+         style="fill:#aa0000" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3005"
+         y="273.44901"
+         x="-4.1073222"
+         style="font-size:345.94836426px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+           id="tspan3009"
+           y="273.44901"
+           x="-4.1073222"
+           sodipodi:role="line">вікі</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3013"
+         y="355.23605"
+         x="22.62215"
+         style="font-size:127.71092224px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+           y="355.23605"
+           x="22.62215"
+           id="tspan3015"
+           sodipodi:role="line">дапаможнік</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3017"
+         y="219.31015"
+         x="702.67261"
+         style="font-size:116.75114441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+           y="219.31015"
+           x="702.67261"
+           id="tspan3019"
+           sodipodi:role="line">і</tspan></text>
+      <rect
+         y="222.88628"
+         x="653.70166"
+         height="9.8055754"
+         width="55.040493"
+         id="rect3021"
+         style="fill:#333333;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

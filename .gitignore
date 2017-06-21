@@ -1,0 +1,10 @@
+Local*.php
+.htpasswd
+LocalSettings.php
+tests/*
+include/*
+cache/*
+inclide/*
+include/*
+includes/*
+mw-config/*

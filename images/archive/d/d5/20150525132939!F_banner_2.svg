@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09003"
+   height="700.35999"
+   id="svg3101"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="F_banner_2.svg"
+   inkscape:export-filename="D:\Dropbox\falanster\logo\banners\f_banner_1.png"
+   inkscape:export-xdpi="29.423077"
+   inkscape:export-ydpi="29.423077">
+  <defs
+     id="defs3103" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="356.82079"
+     inkscape:cy="425.74934"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.00143)">
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3117"
+       width="388.57141"
+       height="540"
+       x="14.285731"
+       y="0.93359727"
+       inkscape:export-filename="D:\Dropbox\falanster\logo\banners\f_banner_1.png"
+       inkscape:export-xdpi="29.423077"
+       inkscape:export-ydpi="29.423077" />
+    <text
+       xml:space="preserve"
+       style="font-size:158.77285767px;font-style:normal;font-weight:normal;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:Sans"
+       x="120.11309"
+       y="578.05347"
+       id="text3109"
+       sodipodi:linespacing="89.999998%"><tspan
+         sodipodi:role="line"
+         id="tspan3111"
+         x="120.11309"
+         y="578.05347"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:89.99999762%;letter-spacing:12px;fill:#ff5555;font-family:a_AlternaBrk;-inkscape-font-specification:a_AlternaBrk Semi-Bold"
+         dx="0">ФА</tspan><tspan
+         sodipodi:role="line"
+         x="120.11309"
+         y="720.94904"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:89.99999762%;letter-spacing:12px;fill:#ff2a2a;font-family:a_AlternaBrk;-inkscape-font-specification:a_AlternaBrk Semi-Bold"
+         id="tspan3119">ЛАН</tspan><tspan
+         sodipodi:role="line"
+         x="120.11309"
+         y="863.8446"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:89.99999762%;letter-spacing:12px;fill:#d40000;font-family:a_AlternaBrk;-inkscape-font-specification:a_AlternaBrk Semi-Bold"
+         id="tspan3121">СТЭР</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.06625366px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="131.73938"
+       y="929.60693"
+       id="text3113"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3115"
+         x="131.73938"
+         y="929.60693">falanster.by</tspan></text>
+  </g>
+</svg>
